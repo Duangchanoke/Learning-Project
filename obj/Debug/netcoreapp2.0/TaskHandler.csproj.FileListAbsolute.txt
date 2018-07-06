@@ -1,0 +1,11 @@
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/bin/Debug/netcoreapp2.0/TaskHandler.deps.json
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/bin/Debug/netcoreapp2.0/TaskHandler.runtimeconfig.json
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/bin/Debug/netcoreapp2.0/TaskHandler.runtimeconfig.dev.json
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/bin/Debug/netcoreapp2.0/TaskHandler.dll
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/bin/Debug/netcoreapp2.0/TaskHandler.pdb
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.csprojResolveAssemblyReference.cache
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.csproj.CoreCompileInputs.cache
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.AssemblyInfoInputs.cache
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.AssemblyInfo.cs
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.dll
+/Users/kwan/Desktop/Training_With_Learning/Visual Studio Project/TaskHandler/TaskHandler/obj/Debug/netcoreapp2.0/TaskHandler.pdb
